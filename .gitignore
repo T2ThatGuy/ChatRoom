@@ -2,3 +2,4 @@
 GUI Version/.vscode/launch.json
 GUI Version/.vscode/settings.json
 *.pyc
+venv/
